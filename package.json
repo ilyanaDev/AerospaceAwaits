@@ -1,0 +1,15 @@
+{
+  "name": "mdx-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.23.3",
+    "gatsby-theme-emulsify": "^2.1.0"
+  },
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+  }
+}
