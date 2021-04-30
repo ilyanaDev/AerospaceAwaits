@@ -6,9 +6,9 @@ module.exports = {
       options: {
         // Site Metadata for style guide
         siteMetadata: {
-          title: 'MDX Starter',
-          description: '',
-          author: '',
+          title: 'Aerospace Awaits',
+          description: 'Aerospace Awaits is the one-stop-shop for all things aerospace, for the aspiring engineer or casual enthusiast.',
+          author: 'Ilyana Smith',
         },
         docPagesPath: 'styleguide', // Where your custom style guide pages live
         componentLibPath: 'components', // Where your component library lives
